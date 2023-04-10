@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_brito_filipin)
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-filipin&show_icons=true&theme=dark)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-filipin&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias:
 <div style="display: inline block"><br>
