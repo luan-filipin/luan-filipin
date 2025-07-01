@@ -5,8 +5,9 @@
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-filipin&show_icons=true&theme=dark)
 
 ## Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,aws,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,aws,eclipse,postman)](https://skillicons.dev)
 <br>
+[![My Skills](https://skillicons.dev/icons?i=eclipse,postman)](https://skillicons.dev)
 
 
 <br>
