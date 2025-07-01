@@ -7,7 +7,6 @@
 ## Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,aws)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
 <br>
