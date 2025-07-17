@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou o Luan!</h1>
+<h1 align="left">👋 Olá, eu sou Luan!</h1>
 
 ###
 
