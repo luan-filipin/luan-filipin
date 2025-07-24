@@ -23,8 +23,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luan-filipin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
+
+<a href="https://github.com/luan-filipin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luan-filipin&theme=dark" />
+</a>
+<a href="https://github.com/luan-filipin/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luan-filipin&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 ###
